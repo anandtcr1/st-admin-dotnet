@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\dotnet\\stroika\\StudentAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.entityframework\\students\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|solutionrelative:studentadmin.entityframework\\students\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444242B1-CCD6-4FDE-BB07-3B7626CD3812}|StudentAdmin.Application\\StudentAdmin.Application.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.application\\students\\studentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444242B1-CCD6-4FDE-BB07-3B7626CD3812}|StudentAdmin.Application\\StudentAdmin.Application.csproj|solutionrelative:studentadmin.application\\students\\studentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.domain\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|solutionrelative:studentadmin.domain\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\controllers\\students\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\controllers\\students\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\controllers\\students\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\controllers\\students\\familymemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.domain\\students\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|solutionrelative:studentadmin.domain\\students\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444242B1-CCD6-4FDE-BB07-3B7626CD3812}|StudentAdmin.Application\\StudentAdmin.Application.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.application\\nationalities\\nationalityappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444242B1-CCD6-4FDE-BB07-3B7626CD3812}|StudentAdmin.Application\\StudentAdmin.Application.csproj|solutionrelative:studentadmin.application\\nationalities\\nationalityappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\profiles\\students\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\profiles\\students\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.entityframework\\students\\familymemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|solutionrelative:studentadmin.entityframework\\students\\familymemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.application.contracts\\students\\istudentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|solutionrelative:studentadmin.application.contracts\\students\\istudentappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.application.contracts\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|solutionrelative:studentadmin.application.contracts\\students\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.application.contracts\\nationalities\\inationalityappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A8AF6-216D-4726-B859-FB309A36AB97}|StudentAdmin.Application.Contracts\\StudentAdmin.Application.Contracts.csproj|solutionrelative:studentadmin.application.contracts\\nationalities\\inationalityappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.domain\\nationalities\\inationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A13F93-941E-4452-A4CD-E464E6C1EA59}|StudentAdmin.Domain\\StudentAdmin.Domain.csproj|solutionrelative:studentadmin.domain\\nationalities\\inationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.entityframework\\nationalities\\nationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC9BCAC3-F169-414B-AE67-4B0E322BECBB}|StudentAdmin.EntityFramework\\StudentAdmin.EntityFramework.csproj|solutionrelative:studentadmin.entityframework\\nationalities\\nationalityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\controllers\\nationalities\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\controllers\\nationalities\\nationalitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|d:\\work\\dotnet\\stroika\\studentadmin\\studentadmin.api\\profiles\\nationalities\\nationalityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4248AB2-4D79-41EC-9D48-EC45F5629448}|StudentAdmin.API\\StudentAdmin.API.csproj|solutionrelative:studentadmin.api\\profiles\\nationalities\\nationalityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentAppService.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Students\\IStudentAppService.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Application.Contracts\\Students\\IStudentAppService.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Students\\IStudentAppService.cs",
+              "RelativeToolTip": "StudentAdmin.Application.Contracts\\Students\\IStudentAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:35:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NationalityAppService.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application\\Nationalities\\NationalityAppService.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Application\\Nationalities\\NationalityAppService.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application\\Nationalities\\NationalityAppService.cs",
+              "RelativeToolTip": "StudentAdmin.Application\\Nationalities\\NationalityAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:29:45.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAppService.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application\\Students\\StudentAppService.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Application\\Students\\StudentAppService.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application\\Students\\StudentAppService.cs",
+              "RelativeToolTip": "StudentAdmin.Application\\Students\\StudentAppService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:36:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Students\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.EntityFramework\\Students\\StudentRepository.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Students\\StudentRepository.cs",
+              "RelativeToolTip": "StudentAdmin.EntityFramework\\Students\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:04:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Students\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Controllers\\Students\\StudentsController.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Students\\StudentsController.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Controllers\\Students\\StudentsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:53:53.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Domain\\Students\\Student.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Students\\Student.cs",
+              "RelativeToolTip": "StudentAdmin.Domain\\Students\\Student.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:52:36.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FamilyMembersController.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Students\\FamilyMembersController.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Controllers\\Students\\FamilyMembersController.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Students\\FamilyMembersController.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Controllers\\Students\\FamilyMembersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:40:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FamilyMember.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Students\\FamilyMember.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Domain\\Students\\FamilyMember.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Students\\FamilyMember.cs",
+              "RelativeToolTip": "StudentAdmin.Domain\\Students\\FamilyMember.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T04:59:04.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FamilyMemberRepository.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Students\\FamilyMemberRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.EntityFramework\\Students\\FamilyMemberRepository.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Students\\FamilyMemberRepository.cs",
+              "RelativeToolTip": "StudentAdmin.EntityFramework\\Students\\FamilyMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:38:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Profiles\\Students\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Profiles\\Students\\StudentProfile.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Profiles\\Students\\StudentProfile.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Profiles\\Students\\StudentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:59:32.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Students\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Application.Contracts\\Students\\StudentDto.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Students\\StudentDto.cs",
+              "RelativeToolTip": "StudentAdmin.Application.Contracts\\Students\\StudentDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:55:21.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INationalityAppService.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Nationalities\\INationalityAppService.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Application.Contracts\\Nationalities\\INationalityAppService.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Application.Contracts\\Nationalities\\INationalityAppService.cs",
+              "RelativeToolTip": "StudentAdmin.Application.Contracts\\Nationalities\\INationalityAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:31:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Program.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Program.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:02:02.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INationalityRepository.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Nationalities\\INationalityRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.Domain\\Nationalities\\INationalityRepository.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.Domain\\Nationalities\\INationalityRepository.cs",
+              "RelativeToolTip": "StudentAdmin.Domain\\Nationalities\\INationalityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:13:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NationalityRepository.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Nationalities\\NationalityRepository.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.EntityFramework\\Nationalities\\NationalityRepository.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.EntityFramework\\Nationalities\\NationalityRepository.cs",
+              "RelativeToolTip": "StudentAdmin.EntityFramework\\Nationalities\\NationalityRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vwwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:40:26.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NationalitiesController.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Nationalities\\NationalitiesController.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Controllers\\Nationalities\\NationalitiesController.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Controllers\\Nationalities\\NationalitiesController.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Controllers\\Nationalities\\NationalitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:03:55.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NationalityProfile.cs",
+              "DocumentMoniker": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Profiles\\Nationalities\\NationalityProfile.cs",
+              "RelativeDocumentMoniker": "StudentAdmin.API\\Profiles\\Nationalities\\NationalityProfile.cs",
+              "ToolTip": "D:\\work\\dotnet\\stroika\\StudentAdmin\\StudentAdmin.API\\Profiles\\Nationalities\\NationalityProfile.cs",
+              "RelativeToolTip": "StudentAdmin.API\\Profiles\\Nationalities\\NationalityProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:00:30.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

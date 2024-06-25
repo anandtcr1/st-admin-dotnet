@@ -1,0 +1,11 @@
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\bin\Debug\net8.0\StudentAdmin.Domain.deps.json
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\bin\Debug\net8.0\StudentAdmin.Domain.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\bin\Debug\net8.0\StudentAdmin.Domain.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.AssemblyInfoInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.AssemblyInfo.cs
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.csproj.CoreCompileInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\refint\StudentAdmin.Domain.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\StudentAdmin.Domain.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Domain\obj\Debug\net8.0\ref\StudentAdmin.Domain.dll

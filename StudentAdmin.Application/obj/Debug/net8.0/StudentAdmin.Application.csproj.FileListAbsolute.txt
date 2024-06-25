@@ -1,0 +1,17 @@
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Application.deps.json
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Application.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Application.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Application.Contracts.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Domain.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Application.Contracts.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\bin\Debug\net8.0\StudentAdmin.Domain.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.csproj.AssemblyReference.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.AssemblyInfoInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.AssemblyInfo.cs
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.csproj.CoreCompileInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentA.77A50E11.Up2Date
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\refint\StudentAdmin.Application.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\StudentAdmin.Application.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application\obj\Debug\net8.0\ref\StudentAdmin.Application.dll

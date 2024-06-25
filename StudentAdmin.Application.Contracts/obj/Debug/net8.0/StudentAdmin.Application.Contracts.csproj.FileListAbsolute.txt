@@ -1,0 +1,11 @@
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\bin\Debug\net8.0\StudentAdmin.Application.Contracts.deps.json
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\bin\Debug\net8.0\StudentAdmin.Application.Contracts.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\bin\Debug\net8.0\StudentAdmin.Application.Contracts.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.AssemblyInfoInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.AssemblyInfo.cs
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\refint\StudentAdmin.Application.Contracts.dll
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\StudentAdmin.Application.Contracts.pdb
+D:\work\dotnet\stroika\StudentAdmin\StudentAdmin.Application.Contracts\obj\Debug\net8.0\ref\StudentAdmin.Application.Contracts.dll
